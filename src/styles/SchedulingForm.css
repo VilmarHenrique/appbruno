@@ -1,0 +1,15 @@
+/* src/styles/SchedulingForm.css */
+
+.scheduling-form {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .scheduling-form .form-control {
+    margin-bottom: 16px;
+  }
+  
+  .scheduling-form button {
+    margin-top: 16px;
+  }
